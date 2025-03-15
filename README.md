@@ -3,7 +3,10 @@
 
 The following content is an updated README - with some improvements to the program, courtesy of me.
 
-...
+✅ Increased speed (from 10m/s to 12m/s)
+✅ Better PID tuning for stability at higher speeds
+✅ Reduced unnecessary slowdowns during turns
+✅ Adaptive speed control based on curvature
 
 The following content is the original README of the submission, courtesy of  @harish950.
 
