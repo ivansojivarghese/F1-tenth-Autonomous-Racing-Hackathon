@@ -1,7 +1,9 @@
 
 # F1-tenth-Autonomous-Racing-Hackathon
 
+The following content is an updated README - with some improvements to the program, courtesy of me.
 
+...
 
 The following content is the original README of the submission, courtesy of  @harish950.
 
